@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi 
+
+
+I'm Monika, a beginner frontend developer currently studying at HyperIsland, Stockholm.
+
+💡 I use this space to share my learning journey, practice projects, and experiments.  
+🌱 My goal is to grow into a creative and skilled frontend developer.  
+✨ Always open to feedback and collaboration!
+
